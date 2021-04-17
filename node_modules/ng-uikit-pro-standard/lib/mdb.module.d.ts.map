@@ -1,0 +1,1 @@
+{"version":3,"file":"mdb.module.d.ts","sourceRoot":"","sources":["../../../projects/ng-uikit-pro-standard/src/lib/mdb.module.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,mBAAmB,EAA8B,MAAM,eAAe,CAAC;AAKhF,OAAO,EAAE,kBAAkB,EAAE,MAAM,wBAAwB,CAAC;AAE5D,OAAO,EAAE,qBAAqB,EAAE,MAAM,sBAAsB,CAAC;AAI7D,qBAMa,cAAc;CAAG;AAE9B,qBACa,sBAAsB;WACnB,OAAO,IAAI,mBAAmB,CAAC,cAAc,CAAC;CAG7D"}
